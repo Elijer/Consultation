@@ -10,12 +10,12 @@ On August 7th we had a phone conversation and you told me that you had a smaller
 </br>
 
 ## Table of Contents
-  * [Your Client’s Needs](#your-client-s-needs)
-  * [Is Shopify the right tool to Use?](#is-shopify-the-right-tool-to-use-)
-  * [My Research and Thoughts on the Project Goals so Far](#my-research-and-thoughts-on-the-project-goals-so-far)
-  * [My Rate](#my-rate)
-  * [Am I the Right Person for this Job?](#am-i-the-right-person-for-this-job-)
-  * [My Questions](#my-questions)
+  1. [Your Client’s Needs](#your-client-s-needs)
+  2. [Is Shopify the right tool to Use?](#is-shopify-the-right-tool-to-use-)
+  3. [My Research and Thoughts on the Project Goals so Far](#my-research-and-thoughts-on-the-project-goals-so-far)
+  4. [My Rate](#my-rate)
+  5. [Am I the Right Person for this Job?](#am-i-the-right-person-for-this-job-)
+  6. [My Questions](#my-questions)
 </br>
 </br>
 </br>
