@@ -55,7 +55,7 @@ I’m not sure what your reasons are for settling on Shopify, but although I thi
 </br>
 
 
-## My Research and Thoughts on the Project Goals so Far
+## My Research and Thoughts on Achieving Your Client's Needs
 
 A Shopify article on creating a “Members Only Store”. This article mentions a few options. They mention that there is actually a very direct way to do this, but it requires Shopify Plus (which, again, costs an ongoing $2000/month). They also mention hiring a Shopify expert, which doesn’t sound like a bad option when you consider that you could probably find someone who has done the exact same setup already. You just want to make sure that they write their code in such a way that further contractors wouldn’t have a problem making modifications. 
 
