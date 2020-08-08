@@ -3,7 +3,7 @@
 
 Hey Cole!
 
-Yesterday (August 7th) we had a phone conversation and you told me that you had a smaller-scale tobacco business-turned-hemp business which is pivoting into this new industry. You conveyed that they are serious about them taking regulations seriously and building what sounds like a positive, sustainable, and socially-productive business. You reached out to me to ask if I could help with web-services related to helping create a e-commerce site that is directly suited to help them sell and manage their product online.
+Yesterday (August 7th) we had a phone conversation and you told me that you had a (smaller-scale) tobacco-business-turned-hemp-business which is pivoting into its new industry. You conveyed that they are serious about them taking regulations seriously and building what sounds like a positive, sustainable, and socially-productive business. You reached out to me to ask if I could help with web-services related to helping create a e-commerce site that is directly suited to help them sell and manage their product online.
 
 </br>
 </br>
@@ -34,16 +34,16 @@ If this is an incomplete list, please let me know. This is what I gathered from 
 
 1. Automated system for authenticating the legitimacy of Wholesale customers `*`
 
-`*` Currently I can think of a bunch of ways to do this, I just don’t have a good idea about with how to integrate them with Shopify yet.
+`*` Currently I can think of a bunch of ways to do this, I just don’t have a good idea about how to integrate those ideas with Shopify yet.
 </br>
 </br>
 </br>
 
 ## Is Shopify the right tool to Use?
-You have chosen Shopify as your tool of choice here. Shopify is a Content Management System (CMD) and more specifically an E-Commerce Platform. Shopify bundles up a gazillion features small-to-enormous-sized online businesses might use. Similar things I’ve heard of include Squarespace Marketplace and different implementation of the very popular Wordpress CMD. In fact, both of these are CMDs. However, while these are more general CMDs used to create websites that include the ability to add e-commerce functionality, Shopify is clearly built from the ground-up as a CMD designed with the specific intention of moving product, managing inventory, providing a good online shopping experience, and handling different forms of payment systems and even shipping and various other fulfillment. I’m still learning more about it to be honest, and didn’t know really anything before August 7th. In addition to all these features, it is not a black-box for developers – it was created by a Canadian Coding Wiz and has a lot of great offerings for developers. Although the “packages” Shopify customers can pick are varied, it seems to me as if it has about **4 basic products**.
+You have chosen Shopify as your tool of choice here. Shopify is a Content Management System (CMD) and more specifically an E-Commerce Platform. Shopify bundles up a gazillion features small-to-enormous-sized online businesses might use. Similar things I’ve heard of include Squarespace Marketplace and different implementation of the very popular Wordpress CMD. In fact, both of these are CMDs. However, while these are more general CMDs used to create websites that include the ability to add e-commerce functionality, Shopify is clearly built from the ground-up as a CMD designed with the specific intention of moving product, managing inventory, providing a good online shopping experience, and handling different forms of payment systems and even shipping and various other fulfillment. In addition to all these features, it is not a black-box for developers – it was created by a Canadian Coding Wiz and has a lot of great offerings for developers. Although the “packages” Shopify customers can pick are varied, it seems to me as if it has about **4 basic products**.
 </br>
 
-1.	**The Baseline Shopify platform**, which you can use with know coding knowledge and an average level of interface intuition to configure a working and really quite nice e-commerce website and more
+1.	**The Baseline Shopify platform**, which you can use with no coding knowledge and an average level of interface intuition to configure a working and really quite nice e-commerce website and more
 2.	**Shopify Apps** that mostly require a small monthly fee to use that allow you to, again with no coding, easily add special functionality on top of the baseline Shopify Platform.
 3.	**Shopify Experts**, that is, accredited Shopify developers (and probably plenty who aren't) who can be hired to improve your baseline shopify Site.
 4.	**Shopify Plus**, a big ol’ enterprise level service that adds a whole lot of extra functionality you might get from #1-3 for a whopping $2,000+ per month. If you are considering hiring a couple team of developers, $2k a month is probably cheaper, EXCEPT that developers actually build something that sticks around, whereas if you stop paying for Plus it just goes away.
@@ -58,7 +58,7 @@ I’m not sure what your reasons are for settling on Shopify, but although I thi
 
 ## Research/Thoughts on Achieving Your Client's Needs
 
-A Shopify article on creating a “Members Only Store”. This article mentions a few options. They mention that there is actually a very direct way to do this, but it requires Shopify Plus (which, again, costs an ongoing $2000/month). They also mention hiring a Shopify expert, which doesn’t sound like a bad option when you consider that you could probably find someone who has done the exact same setup already. You just want to make sure that they write their code in such a way that further contractors wouldn’t have a problem making modifications if the needs for the website (invariable) change somewhere down the line.
+[Here is a a Shopify article on creating a “Members Only Store”](https://community.shopify.com/c/Shopify-Design/Site-access-Create-a-members-only-store/td-p/613500) This article mentions a few options. They mention that there is actually a very direct way to do this, but it requires Shopify Plus (which, again, costs an ongoing $2000/month). They also mention hiring a Shopify expert, which doesn’t sound like a bad option when you consider that you could probably find someone who has done the exact same setup already. You just want to make sure that they write their code in such a way that further contractors wouldn’t have a problem making modifications if the needs for the website (invariable) change somewhere down the line.
 
 They also mention the option of creating two separate Shopify stores. You may be able to tell me why this isn’t ideal, or maybe it even isn’t acceptable for some reason, but in my mind it actually has a lot of advantages that a single store would not.
 
