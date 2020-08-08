@@ -95,7 +95,7 @@ I think it is very possible that we can reach your client’s goals without brin
 
 What I *can* promise is that I will be an asset towards figuring out the way forward, and if at any point I find I am no longer able to contribute to the website goals of your client, I will step aside and help you find someone who can if you want. I have no desire to do work that is not helpful, or is questionably helpful. That’s bad for everyone.
 
-That said, the goals outlined above are not too complex and I think I will be a powerful asset to making them happen for less money than a full-fledged web-dev veteran, and within the timeline proposed. A lot of that is possible because Shopify and tools like it really are quite customizable and easy to use, and that I have experience with similar technology such as Wordpress, Squarespace, CDN configurations, hosting, and more bare-bones web-dev.
+That said, the goals outlined above are not too complex and I think I will be a powerful asset to making them happen for less money than a full-fledged web-dev veteran, and within the timeline proposed. A lot of that is possible because Shopify and tools like it really are quite customizable and easy to use, and that I have experience with similar technology such as **Wordpress**, **Squarespace**, **CDN configuration**, web-hosting, and more **bare-bones web-dev** (HTML, CSS, JS).
 
 You don't need to commit to a long timeline of hiring me as a contractor. If you decide at any point that I have done all I can do for you, or you want me to standby for a bit while you figure it out, just let me know, and I will stop recording billed hours.
 </br>
@@ -103,7 +103,7 @@ You don't need to commit to a long timeline of hiring me as a contractor. If you
 </br>
 
 ## My Questions
-1.	What is your Role in this project? You seem to be the lead point of contact, you are the main contractor, and you occasionally hire out work. Do you intend to/want to have a very active hand in the web development, or do you think your expertise is better suited for other parts of the project (you know, marketing, video, media, etc.).
+1.	What is your specific Role in this project? You seem to be the lead point of contact, you are the main contractor, and you occasionally hire out work. Do you intend to/want to have a very active hand in the web development, or do you think your expertise is better suited for other parts of the project (you know, marketing, video, media, etc.).
 2.	Very roughly, do you have any information on how many customers are forecasted to be buying through the site at various points in the timeline?
 </br>
 </br>
