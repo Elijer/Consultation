@@ -3,7 +3,7 @@
 
 Hey Cole! Here’s the context in which I wrote this document, for the sake of posterity:
 
-On August 7th we had a phone conversation and you told me that you had a smaller-scale tobacco business-turned-hemp business which is pivoting into this new industry. My understanding is that they are gearing up to produce smoke-able (and perhaps other…?)  CBD products that have .3% THC content or less as per FDA requirements. Along that theme of FDA and general legal compliancy, you conveyed that they are serious about them taking regulations seriously and building what sounds like a positive, sustainable, and socially-productive business.
+```On August 7th we had a phone conversation and you told me that you had a smaller-scale tobacco business-turned-hemp business which is pivoting into this new industry. My understanding is that they are gearing up to produce smoke-able (and perhaps other…?)  CBD products that have .3% THC content or less as per FDA requirements. Along that theme of FDA and general legal compliancy, you conveyed that they are serious about them taking regulations seriously and building what sounds like a positive, sustainable, and socially-productive business.```
 
 </br>
 </br>
