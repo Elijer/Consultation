@@ -25,14 +25,14 @@ Yesterday (August 7th) we had a phone conversation and you told me that you had 
 If this is an incomplete list, please let me know. This is what I gathered from our phone call:
 
 **Primary Needs**
-1. E-commerce site that provides an easy shopping experience for a variety of products to normal consumers (retail)
+1. E-commerce site that provides an easy shopping experience of product catalogue to **retail** customers (retail)
+1. A separate Catalogue displayed only to registered **wholesale customers**
 1. Age Gateway to this website
-1. A separate Catalogue only displayed to registered Wholesale customers
 1. Appropriate fulfillment to distributors via email and/or other communication channels (Sms, Shopify Site, etc.)
 
 **Secondary Needs**
 
-1. Automated system for authenticating the legitimacy of Wholesale customers `*`
+1. Automated system for authenticating the legitimacy of **wholesale customers** `*`
 
 `*` Currently I can think of a bunch of ways to do this, I just don’t have a good idea about how to integrate those ideas with Shopify yet.
 </br>
@@ -46,7 +46,7 @@ You have chosen Shopify as your tool of choice here. Shopify is a Content Manage
 1.	**The Baseline Shopify platform**, which you can use with no coding knowledge and an average level of interface intuition to configure a working and really quite nice e-commerce website and more
 2.	**Shopify Apps** that mostly require a small monthly fee to use that allow you to, again with no coding, easily add special functionality on top of the baseline Shopify Platform.
 3.	**Shopify Experts**, that is, accredited Shopify developers (and probably plenty who aren't) who can be hired to improve your baseline shopify Site.
-4.	**Shopify Plus**, a big ol’ enterprise level service that adds a whole lot of extra functionality you might get from #1-3 for a whopping $2,000+ per month. If you are considering hiring a couple team of developers, $2k a month is probably cheaper, EXCEPT that developers actually build something that sticks around, whereas if you stop paying for Plus it just goes away.
+4.	**Shopify Plus**, a big ol’ enterprise level service that adds a whole lot of extra functionality you might get from #1-3 for a whopping $2,000+ per month. If you are considering hiring a couple team of developers, $2k a month is probably cheaper, EXCEPT that developers build something that sticks around, whereas if you stop paying for Plus it just goes away.
 
 My impression is that Shopify has done a good job if giving interested parties a lot of options at different price points. They seem to acknowledge that Shopify Plus might be good for, say, Toys R. Us, but probably not for your mom and pops store. I think that Shopify experts are worth checking out, especially to guarantee a shorter time to market. However, they can be pricey.
 
@@ -58,15 +58,17 @@ I’m not sure what your reasons are for settling on Shopify, but although I thi
 
 ## Research/Thoughts on Achieving Your Client's Needs
 
-[Here is a a Shopify article on creating a “Members Only Store”](https://community.shopify.com/c/Shopify-Design/Site-access-Create-a-members-only-store/td-p/613500) This article mentions a few options. They mention that there is actually a very direct way to do this, but it requires Shopify Plus (which, again, costs an ongoing $2000/month). They also mention hiring a Shopify expert, which doesn’t sound like a bad option when you consider that you could probably find someone who has done the exact same setup already. You just want to make sure that they write their code in such a way that further contractors wouldn’t have a problem making modifications if the needs for the website (invariable) change somewhere down the line.
+[Here is a a Shopify article on creating a “Members Only Store”](https://community.shopify.com/c/Shopify-Design/Site-access-Create-a-members-only-store/td-p/613500).
 
-They also mention the option of creating two separate Shopify stores. You may be able to tell me why this isn’t ideal, or maybe it even isn’t acceptable for some reason, but in my mind it actually has a lot of advantages that a single store would not.
+This article mentions a few options. They mention that there is a very direct way to do this, but it requires Shopify Plus (which, again, costs an ongoing $2000/month). They also mention hiring a Shopify expert, which doesn’t sound like a bad option when you consider that you could probably find someone who has done the exact same setup already. You just want to make sure that they write their code in such a way that further contractors wouldn’t have a problem making modifications if the needs for the website (invariable) change somewhere down the line.
 
-One pro is that it simply allows for a very clear distinction between wholesale and retail. You can assess those two different sides of the business very separately without confusion. In addition, you can host them at related URLS, with the same visual style/branding, and with links passing easily passing people between them, so that they wouldn’t actually feel like separate sites because in reality they would not be. They would just be two separate Shopify stores.
+They also mention the option of creating two separate Shopify stores. You may be able to tell me why this isn’t ideal, or maybe it even isn’t acceptable for some reason, but in my mind it has a lot of advantages that a single store would not.
 
-Possibly best of all, this would be super easy, and fast. I already know how to do all of this. With this route, I can promise that we can make all of the deadlines you mentioned and focus on all of the configuration. It could buy time. Perhaps we do decide in the end that merging the Retail and Wholesale into a single site is in fact very important, then we at least have a working platform for the time being while that merging is worked on.
+One pro is that it simply allows for a very clear distinction between **wholesale** and **retail**. You can assess those two different sides of the business very separately without confusion. In addition, you can host them at related URLS, with the same visual style, and with links passing between them so that they don't feel like separate sites because, in reality they would not be; They would just be two separate Shopify stores.
 
-Lastly, maybe we don’t have the information to make the decision yet. If we implement the easiest option of two separate sites, everyone will be able to learn what is lacking so that when we really put the work in, we know exactly what is needed in the site and didn’t waste time or money to build a whole bunch of crazy functionality that actually wasn’t needed after all.
+Possibly best of all, this could be the easiest, fastest option. It could buy time; if decide in the end that merging the Retail and Wholesale into a single site is in fact very important, then we at least have a working platform for the time being. With the creation of two separate Shopify sites, I can guarantee that we can make all of the deadlines you mentioned, leaving us time to focus on the site look and feel, fulfillment details, etc.
+
+Lastly, maybe we don’t have the information to make the decision yet. If we implement the easiest option of two separate sites, everyone will be able to learn what is lacking so that when we really put the work in, we know exactly what is needed in the site and didn’t waste time or money to build a whole bunch of crazy functionality that wasn’t needed after all.
 </br>
 </br>
 </br>
@@ -74,7 +76,7 @@ Lastly, maybe we don’t have the information to make the decision yet. If we im
 
 ## My Rate
 
-I feel comfortable working for **$12.50** an hour. While I hope that later on I will be directly building the needed features of your client’s site, I know from experience that, early on, technical is often less important than technical decisions. As such, I imagine my role starting out would mostly be characterized by the kind of research I have done in the past 24 hours, namely:
+I feel comfortable working for **$12.50** an hour. While I hope that later on I will be directly building the needed features of your client’s site, I know from experience that, early on, making the right decisions is more important than what is built. As such, I imagine my role starting out would mostly be characterized by the kind of research I have done in the past 24 hours, namely:
 
 •	What tools are available (Shopify or otherwise)
 •	How to use them
