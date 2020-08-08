@@ -66,9 +66,9 @@ They also mention the option of creating two separate Shopify stores. You may be
 
 One pro is that it simply allows for a very clear distinction between **wholesale** and **retail**. You can assess those two different sides of the business very separately without confusion. In addition, you can host them at related URLS, with the same visual style, and with links passing between them so that they don't feel like separate sites because, in reality they would not be; They would just be two separate Shopify stores.
 
-Possibly best of all, this could be the easiest, fastest option. It could buy time; if decide in the end that merging the Retail and Wholesale into a single site is in fact very important, then we at least have a working platform for the time being. With the creation of two separate Shopify sites, I can guarantee that we can make all of the deadlines you mentioned, leaving us time to focus on the site look and feel, fulfillment details, etc.
+Possibly best of all, this could be the easiest, fastest option. It could buy time; if the client decides that merging **Retail** and **Wholesale** into a single Shopify instance needed, then we at least have a working platform for the time being. With the creation of two separate Shopify sites, I can guarantee that we can make all of the deadlines you mentioned, leaving us time to focus on the site look and feel, fulfillment details, etc.
 
-Lastly, maybe we don’t have the information to make the decision yet. If we implement the easiest option of two separate sites, everyone will be able to learn what is lacking so that when we really put the work in, we know exactly what is needed in the site and didn’t waste time or money to build a whole bunch of crazy functionality that wasn’t needed after all.
+Lastly, maybe we don’t have the information to make the decision yet. If we make what is *needed now*, everyone will be able to learn what is lacking so that when we really put the work in, we know exactly what can be improved. This strategy won't waste time or money to build a whole bunch of difficult functionality that wasn't necessary.
 </br>
 </br>
 </br>
