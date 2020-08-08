@@ -41,6 +41,7 @@ My impression is that Shopify has done a good job if giving interested parties a
 I’m not sure what your reasons are for settling on Shopify, but although I think it *is* a great pick, I would like to look around a bit more.
 </br>
 </br>
+</br>
 
 
 ## My Research and Thoughts on the Project Goals so Far
@@ -56,6 +57,7 @@ Possibly best of all, this would be super easy, and fast. I already know how to 
 Lastly, maybe we don’t have the information to make the decision yet. If we implement the easiest option of two separate sites, everyone will be able to learn what is lacking so that when we really put the work in, we know exactly what is needed in the site and didn’t waste time or money to build a whole bunch of crazy functionality that actually wasn’t needed after all.
 </br>
 </br>
+</br>
 
 
 ## My Rate
@@ -69,6 +71,7 @@ I feel comfortable working for $12.50 an hour. While I hope that later on I will
 •	Communicating with you in a timely manner as progress is made developments appear
 </br>
 </br>
+</br>
 
 ## Am I the Right Person for this Job?
 
@@ -79,9 +82,11 @@ What I can promise is that I will be an asset towards figuring out the way forwa
 That said, the goals outline above are not too complex and I think I will be a powerful asset to making them happen for less money than a full-fledged web-dev veteran, and within the timeline proposed. A lot of that is possible because Shopify and tools like it really are quite customizable and easy to use, and that I have experience with similar technology such as Wordpress, Squarespace, CDN configurations, hosting, and more bare-bones web-dev.
 </br>
 </br>
+</br>
 
 ## My Questions
 1.	What is your Role in this project? You seem to be the lead point of contact, you are the main contractor, and you occasionally hire out work. Do you intend to/want to have a very active hand in the web development, or do you think your expertise is better suited for other parts of the project (you know, marketing, video, media, etc.).
 2.	Very roughly, do you have any information on how many customers are forecasted to be buying through the site at various points in the timeline?
+</br>
 </br>
 </br>
