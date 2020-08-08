@@ -8,6 +8,17 @@ On August 7th we had a phone conversation and you told me that you had a smaller
 </br>
 </br>
 
+## Contents
+  * [Your Client’s Needs](#your-client-s-needs)
+  * [Is Shopify the right tool to Use?](#is-shopify-the-right-tool-to-use-)
+  * [My Research and Thoughts on the Project Goals so Far](#my-research-and-thoughts-on-the-project-goals-so-far)
+  * [My Rate](#my-rate)
+  * [Am I the Right Person for this Job?](#am-i-the-right-person-for-this-job-)
+  * [My Questions](#my-questions)
+</br>
+</br>
+</br>
+
 
 ## Your Client’s Needs
 This is what I gathered from our phone call. If it's an incomplete list, please let me know.
