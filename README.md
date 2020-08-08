@@ -1,4 +1,4 @@
-# Informal Consultation for Services / Some Thoughts
+# Informal Consultation for Services
 ### Elijah Kennedy
 
 Hey Cole!
