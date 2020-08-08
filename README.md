@@ -1,9 +1,10 @@
 # Informal Consultation for Services / Some Thoughts
 ### Elijah Kennedy
 
-Hey Cole! Here’s the context of this document for posterity:
+Hey Cole! Here’s the context in which I wrote this document, for the sake of posterity:
 
 On August 7th we had a phone conversation and you told me that you had a smaller-scale tobacco business-turned-hemp business which is pivoting into this new industry. My understanding is that they are gearing up to produce smoke-able (and perhaps other…?)  CBD products that have .3% THC content or less as per FDA requirements. Along that theme of FDA and general legal compliancy, you conveyed that they are serious about them taking regulations seriously and building what sounds like a positive, sustainable, and socially-productive business.
+
 </br>
 </br>
 </br>
@@ -90,7 +91,7 @@ I think it is very possible that we can reach your client’s goals without brin
 
 What I can promise is that I will be an asset towards figuring out the way forward, and if at any point I find I am no longer able to contribute to the website goals of your client, I will step aside and help you find someone who can if you want. The fact that I consider you a friend is not wholly irrelevant here, but much more importantly, I simply have no desire to do work that is not helpful, or is ambiguously helpful. That’s bad for everyone.
 
-That said, the goals outline above are not too complex and I think I will be a powerful asset to making them happen for less money than a full-fledged web-dev veteran, and within the timeline proposed. A lot of that is possible because Shopify and tools like it really are quite customizable and easy to use, and that I have experience with similar technology such as Wordpress, Squarespace, CDN configurations, hosting, and more bare-bones web-dev.
+That said, the goals outlined above are not too complex and I think I will be a powerful asset to making them happen for less money than a full-fledged web-dev veteran, and within the timeline proposed. A lot of that is possible because Shopify and tools like it really are quite customizable and easy to use, and that I have experience with similar technology such as Wordpress, Squarespace, CDN configurations, hosting, and more bare-bones web-dev.
 </br>
 </br>
 </br>
