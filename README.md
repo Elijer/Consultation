@@ -8,7 +8,7 @@ On August 7th we had a phone conversation and you told me that you had a smaller
 </br>
 </br>
 
-## Contents
+## Table of Contents
   * [Your Client’s Needs](#your-client-s-needs)
   * [Is Shopify the right tool to Use?](#is-shopify-the-right-tool-to-use-)
   * [My Research and Thoughts on the Project Goals so Far](#my-research-and-thoughts-on-the-project-goals-so-far)
