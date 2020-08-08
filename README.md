@@ -74,7 +74,7 @@ Lastly, maybe we don’t have the information to make the decision yet. If we im
 
 ## My Rate
 
-I feel comfortable working for **$12.50** an hour. While I hope that later on I will be directly building the needed features of your client’s site, I know from experience that, early on, technical is is often less important than technical decisions. As such, I imagine my role starting out would mostly be characterized by the kind of research I have done in the past 24 hours, namely:
+I feel comfortable working for **$12.50** an hour. While I hope that later on I will be directly building the needed features of your client’s site, I know from experience that, early on, technical is often less important than technical decisions. As such, I imagine my role starting out would mostly be characterized by the kind of research I have done in the past 24 hours, namely:
 
 •	What tools are available (Shopify or otherwise)
 •	How to use them
