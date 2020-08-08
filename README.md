@@ -3,7 +3,7 @@
 
 Hey Cole!
 
-Yesterday (August 7th) we had a phone conversation and you told me that you had a (smaller-scale) tobacco-business-turned-hemp-business which is pivoting into its new industry. You conveyed that they are serious about them taking regulations seriously and building what sounds like a positive, sustainable, and socially-productive business. You reached out to me to ask if I could help with web-services related to helping create a e-commerce site that is directly suited to help them sell and manage their product online.
+Yesterday (August 7th) we had a phone conversation and you told me that you had a (smaller-scale) tobacco-business-turned-hemp-business which is pivoting into its new industry. You conveyed that they are serious about them taking regulations seriously and building what sounds like a positive, sustainable, and socially-productive business. You reached out to me to ask if I could help with building them an e-commerce site that is directly suited to help them sell and manage their product online.
 
 </br>
 </br>
