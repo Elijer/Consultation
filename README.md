@@ -3,7 +3,7 @@
 
 Hey Cole! Here’s the context in which I wrote this document, for the sake of posterity:
 
-```On August 7th we had a phone conversation and you told me that you had a smaller-scale tobacco business-turned-hemp business which is pivoting into this new industry. My understanding is that they are gearing up to produce smoke-able (and perhaps other…?)  CBD products that have .3% THC content or less as per FDA requirements. Along that theme of FDA and general legal compliancy, you conveyed that they are serious about them taking regulations seriously and building what sounds like a positive, sustainable, and socially-productive business.```
+On August 7th we had a phone conversation and you told me that you had a smaller-scale tobacco business-turned-hemp business which is pivoting into this new industry. My        understanding is that they are gearing up to produce smoke-able (and perhaps other…?)  CBD products that have .3% THC content or less as per FDA requirements. Along that     theme of FDA and general legal compliancy, you conveyed that they are serious about them taking regulations seriously and building what sounds like a positive, sustainable, and socially-productive business.
 
 </br>
 </br>
@@ -22,7 +22,7 @@ Hey Cole! Here’s the context in which I wrote this document, for the sake of p
 
 
 ## Your Client’s Needs
-This is what I gathered from our phone call. If it's an incomplete list, please let me know.
+If this is an incomplete list, please let me know. This is what I gathered from our phone call:
 
 **Primary Needs**
 1. E-commerce site that provides an easy shopping experience for a variety of products to normal consumers (retail)
@@ -34,7 +34,7 @@ This is what I gathered from our phone call. If it's an incomplete list, please 
 
 1. Automated system for authenticating the legitimacy of Wholesale customers `*`
 
-`*` Currently I can think of a bunch of ways to do this, I just don’t have a clue with how to integrate them with Shopify. Yet.
+`*` Currently I can think of a bunch of ways to do this, I just don’t have a good idea about with how to integrate them with Shopify yet.
 </br>
 </br>
 </br>
@@ -56,9 +56,9 @@ I’m not sure what your reasons are for settling on Shopify, but although I thi
 </br>
 
 
-## My Research and Thoughts on Achieving Your Client's Needs
+## Research/Thoughts on Achieving Your Client's Needs
 
-A Shopify article on creating a “Members Only Store”. This article mentions a few options. They mention that there is actually a very direct way to do this, but it requires Shopify Plus (which, again, costs an ongoing $2000/month). They also mention hiring a Shopify expert, which doesn’t sound like a bad option when you consider that you could probably find someone who has done the exact same setup already. You just want to make sure that they write their code in such a way that further contractors wouldn’t have a problem making modifications. 
+A Shopify article on creating a “Members Only Store”. This article mentions a few options. They mention that there is actually a very direct way to do this, but it requires Shopify Plus (which, again, costs an ongoing $2000/month). They also mention hiring a Shopify expert, which doesn’t sound like a bad option when you consider that you could probably find someone who has done the exact same setup already. You just want to make sure that they write their code in such a way that further contractors wouldn’t have a problem making modifications if the needs for the website (invariable) change somewhere down the line.
 
 They also mention the option of creating two separate Shopify stores. You may be able to tell me why this isn’t ideal, or maybe it even isn’t acceptable for some reason, but in my mind it actually has a lot of advantages that a single store would not.
 
@@ -74,13 +74,15 @@ Lastly, maybe we don’t have the information to make the decision yet. If we im
 
 ## My Rate
 
-I feel comfortable working for $12.50 an hour. While I hope that later on I will be directly building the needed features of your client’s site, I know from experience that, early on, technical is is often less important than technical decisions. As such, I imagine my role starting out would mostly be characterized by the kind of research I have done in the past 24 hours, namely:
+I feel comfortable working for **$12.50** an hour. While I hope that later on I will be directly building the needed features of your client’s site, I know from experience that, early on, technical is is often less important than technical decisions. As such, I imagine my role starting out would mostly be characterized by the kind of research I have done in the past 24 hours, namely:
 
 •	What tools are available (Shopify or otherwise)
 •	How to use them
 •	What specific configuration will achieve all of your client’s goals at the lowest cost and with the most sustainable Setup
 •	Documenting this research clearly (like this) so that if if/when I leave these project, someone else can continue what I started
 •	Communicating with you in a timely manner as progress is made developments appear
+
+If necessary, I am willing to dedicate myself full time to this.
 </br>
 </br>
 </br>
@@ -89,9 +91,11 @@ I feel comfortable working for $12.50 an hour. While I hope that later on I will
 
 I think it is very possible that we can reach your client’s goals without bringing in additional website expertise, but can’t quite promise that at this time.
 
-What I can promise is that I will be an asset towards figuring out the way forward, and if at any point I find I am no longer able to contribute to the website goals of your client, I will step aside and help you find someone who can if you want. The fact that I consider you a friend is not wholly irrelevant here, but much more importantly, I simply have no desire to do work that is not helpful, or is ambiguously helpful. That’s bad for everyone.
+What I *can* promise is that I will be an asset towards figuring out the way forward, and if at any point I find I am no longer able to contribute to the website goals of your client, I will step aside and help you find someone who can if you want. I have no desire to do work that is not helpful, or is questionably helpful. That’s bad for everyone.
 
 That said, the goals outlined above are not too complex and I think I will be a powerful asset to making them happen for less money than a full-fledged web-dev veteran, and within the timeline proposed. A lot of that is possible because Shopify and tools like it really are quite customizable and easy to use, and that I have experience with similar technology such as Wordpress, Squarespace, CDN configurations, hosting, and more bare-bones web-dev.
+
+You don't need to commit to a long timeline of hiring me as a contractor. If you decide at any point that I have done all I can do for you, or you want me to standby for a bit while you figure it out, just let me know, and I will stop recording billed hours.
 </br>
 </br>
 </br>
